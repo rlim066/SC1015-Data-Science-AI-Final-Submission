@@ -46,6 +46,7 @@ After creating the Multivariate Regression Model, we used it to predic the IMDb 
 
 
 ### 5. Random Forest Regression
+In this notebook, we change 'IMDb' into a categorical feature (good or bad movies) based on the scores. Using the classification tool RandomForestClassifier to predict the Train set, we were able to achieve approximate accuracy of 97%. To evaluate performance of the model, we used K-Fold Cross Validation (mean accuracy is 80.95%, standard deviation is 1.95%). We also found how relevant the features were by computing feature importance, and Rotten Tomatoes was the most relevant one. Finally, our team used random forest regression method to predict on Test set.
 
 ## Conclusion
 1. Rotten Tomatoes score is the best variable to predict IMDb score as it had the highest correlation and the best Goodness of Fit model out of all three numerical variables.
@@ -66,3 +67,6 @@ After creating the Multivariate Regression Model, we used it to predic the IMDb 
 2. https://www.statisticssolutions.com/dummy-coding-the-how-and-why/
 3. https://www.moresteam.com/whitepapers/download/dummy-variables.pdf
 4. https://cnvrg.io/random-forest-regression/
+5. https://www.kaggle.com/code/niklasdonges/end-to-end-project-with-python/notebook#Building-Machine-Learning-Models
+6. https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+7. https://cnvrg.io/random-forest-regression/
