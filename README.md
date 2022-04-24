@@ -62,3 +62,7 @@ After creating the Multivariate Regression Model, we used it to predic the IMDb 
 
 
 ## References
+1. https://medium.com/analytics-vidhya/implementing-linear-regression-using-sklearn-76264a3c073c
+2. https://www.statisticssolutions.com/dummy-coding-the-how-and-why/
+3. https://www.moresteam.com/whitepapers/download/dummy-variables.pdf
+4. https://cnvrg.io/random-forest-regression/
