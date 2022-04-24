@@ -15,7 +15,9 @@ Movies on Streaming Platforms 2020 https://www.kaggle.com/code/armintalic/qualit
 
 ## Problem Definition
 -Are we able to predict the IMDb Score of Movies based on their metrics?
+
 -Which metrics are the best for accurate predictions?
+
 -How will different modelling strategies affect our predictions?
 
 ## Models Used
