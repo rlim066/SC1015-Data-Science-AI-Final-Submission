@@ -6,11 +6,14 @@ This is the mini project for SC1015. Our team's objective is to create a model t
 
 ## Contributors
 -Timothy Lim: Data Extraction & Preparation, Exploratory Data Analysis, Slides
+
 -Raymond Lim: Data Preparation, Categorical Linear Regression, Slides
+
 -Duy Linh: Exploratory Data Analysis, Numerical Linear Regression, Random Forest, Slides
 
 ## Original Data Sets
 Movies on Streaming Platforms 2021: https://www.kaggle.com/code/ruchi798/movies-and-tv-shows-eda/data?select=MoviesOnStreamingPlatforms_updated.csv 
+
 Movies on Streaming Platforms 2020 https://www.kaggle.com/code/armintalic/quality-and-quantity-of-streaming-services-content/data?select=MoviesOnStreamingPlatforms_updated.csv
 
 ## Problem Definition
