@@ -57,8 +57,8 @@ After creating the Multivariate Regression Model, we used it to predic the IMDb 
 ## Lessons Learnt
 1. Combining Datasets and cleaning them using python and excel formulas.
 2. Learnt how to use Dummy Coding to do linear regression using categorical variables.
-3. We learnt how to predict variabkles using Random Forest Regression Model.
-4. Collaborating using GitHub.
+3. Learnt how to predict variables using Random Forest Regression Model.
+4. Learnt how to collaborate using GitHub.
 
 
 ## References
