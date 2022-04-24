@@ -19,8 +19,9 @@ Movies on Streaming Platforms 2020 https://www.kaggle.com/code/armintalic/qualit
 -How will different modelling strategies affect our predictions?
 
 ## Models Used
--Numeric Linear Regression
--Random Forest Regression
+1.Numeric Linear Regression
+
+2.Random Forest Regression
 
 ## ipynb notebook
 ### 1. Data Extraction
