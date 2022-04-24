@@ -7,6 +7,8 @@ This is the mini project for SC1015. Our team's objective is to create a model t
 ## Contributors
 -Timothy Lim: Data Extraction & Preparation, Exploratory Data Analysis, Slides
 -Raymond Lim: Data Preparation, Categorical Linear Regression, Slides
+-Raymond Lim: Data Preparation, Categorical Linear Regression, Slides
+-Raymond Lim: Data Preparation, Categorical Linear Regression, Slides
 -Duy Linh: Exploratory Data Analysis, Numerical Linear Regression, Random Forest, Slides
 
 ## Original Data Sets
